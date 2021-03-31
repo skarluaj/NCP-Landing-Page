@@ -5,4 +5,7 @@
   <body>
   Tampilan Awal
   </body>
+  <footer>
+    ini footer
+  </footer>
 </html>
